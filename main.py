@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix="$", intents=intents)
 tips = ["🌱 Try to touch some grass and breathe in the real world!"]
 motivation = ["💪 Just think... someone out there hasn’t even started yet. You’re already ahead!"]
 
-data_path = Path("E:\Aaaa VS CODE\Application_Projects\Discord_Bot\data\streaks.json")
+data_path = Path("Change to the path for the streaks.json file")
 #Loading data
 def load_data():
     try:
